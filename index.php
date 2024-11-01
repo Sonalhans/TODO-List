@@ -16,7 +16,7 @@ $result = $conn->query($sql);
 <body class="bg-violet-50">
     <h1 class="bg-violet-200  p-5 text-center font-serif text-4xl ">To-Do List</h1>
     <div class="my-10 mx-24 ">
-        <a href="add_task.php" type="button" class="ml-40 mt-5 rounded-md bg-violet-300 px-3.5 py-2.5 my-20 text-sm bg-gray-300 font-semibold text-black shadow-sm hover:bg-white/20">Add New Task +</a>
+        <a href="add_task.php" type="button" class="ml-40 mt-5 rounded-md bg-violet-300 px-3.5 py-2.5 my-20 text-sm text-violet-900 font-semibold text-black shadow-sm hover:bg-violet-500">Add New Task +</a>
     </div>
     <div class=" rounded-xl bg-white-300 mx-60 block shadow-lg px-3 bg-violet-100">
         <table>
